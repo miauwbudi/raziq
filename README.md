@@ -1,2 +1,2 @@
-# raziq
-pertama kali membuat repository
+# Muhammad Raziq 
+repository Penyimpanan TRMM 1a
