@@ -1,0 +1,4 @@
+REPOSITORY MUHAMMAD-RAZIQ
+-Pertemuan 13 membuat repository dengan github
+-file name M.RAZIQ
+-saat file dibuka maka akan muncul ini
